@@ -1,4 +1,5 @@
-### Olá! 👋 Eu sou Renan Cabral, Designer de Games e Designer de Animação 🎮🚀
+### Olá! 👋 Eu sou Renan Cabral! 
+### Designer de Games e Designer de Animação 🎮🚀
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar experiências imersivas e cativantes no mundo dos jogos.
 
