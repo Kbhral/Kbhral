@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou Renan Cabral!
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar experiências imersivas e cativantes no mundo dos jogos.
+Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar experiências imersivas e cativantes no mundo dos jogos./n
 Designer de Games e Designer de Animação 🎮🚀
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renancabralgamedesigner) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kabhral/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kbhral08@gmail.com) 
