@@ -9,6 +9,9 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar experiências imersi
 - Linguagens de Programação: C++ e C#.
 - Engines de Desenvolvimento: Unity e Unreal.
 
+![Kbhral GitHub stats](https://github-readme-stats.vercel.app/api?username=devkbhral&show_icons=true&theme=radical)
+
+
 🌱 Próximos Passos
 
 Estou em constante aprendizado para me aperfeiçoar e expandir meu conhecimento em:
