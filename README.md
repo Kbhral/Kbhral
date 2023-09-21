@@ -6,9 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar experiências imersi
 
 ![Kbhral GitHub stats](https://github-readme-stats.vercel.app/api?username=kbhral&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbhral&hide_progress=true)
-
-🔧 Habilidades e Tecnologias
+### 🔧 Habilidades e Tecnologias
 
 - Design de Games: Criação de conceitos, prototipagem, level design.
 - Design de Animação: Animações 2D e 3D, rigging, motion graphics.
