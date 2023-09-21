@@ -1,9 +1,8 @@
-### Olá! 👋 Eu sou Renan Cabral! 
-# Designer de Games e Designer de Animação 🎮🚀
+### Olá! 👋 Eu sou Renan Cabral! Designer de Games e Designer de Animação 🎮🚀
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar experiências imersivas e cativantes no mundo dos jogos.
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renancabralgamedesigner)
 
 🔧 Habilidades e Tecnologias
 
